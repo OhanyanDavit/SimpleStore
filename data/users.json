@@ -4,7 +4,7 @@
     "age": "123456",
     "password": "Davit1234",
     "email": "davo@gmail.com",
-    "role": "user"
+    "role": "admin"
   },
   "dav@example.com": {
     "name": "Dav",
@@ -18,6 +18,39 @@
     "age": 23,
     "password": "iwcgidwcewi",
     "email": "div@example.com",
+    "role": "user"
+  },
+  "efiueg@example.com": {
+    "name": "aar",
+    "age": 20,
+    "password": "iwcgidwcewi",
+    "email": "efiueg@example.com",
+    "role": "user"
+  },
+  "davo1@example.com": {
+    "name": "DAVIT",
+    "age": 20,
+    "password": "DAVIT000",
+    "email": "davo1@example.com",
+    "role": "user"
+  },
+  "DAVOHANYAN@example.com": {
+    "name": "Davit",
+    "age": 23,
+    "email": "DAVOHANYAN@example.com",
+    "role": "user"
+  },
+  "DAVOHANYAN1@example.com": {
+    "name": "Davit",
+    "age": 23,
+    "email": "DAVOHANYAN1@example.com",
+    "role": "user"
+  },
+  "DAVOHANYAN2@example.com": {
+    "name": "Davit",
+    "age": 23,
+    "password": "$2b$10$v3bS/QT0GoNAL7Cy3CeESupKJNgp8qCdf.5qVw9nAiKUCKRELwepO",
+    "email": "DAVOHANYAN2@example.com",
     "role": "user"
   }
 }

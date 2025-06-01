@@ -1,0 +1,12 @@
+{
+  "house": {
+    "count": 4,
+    "color": "white",
+    "price": "$150000"
+  },
+  "tabl1e": {
+    "price": 500,
+    "color": "greeb",
+    "count": 2
+  }
+}
