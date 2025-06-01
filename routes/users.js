@@ -9,7 +9,7 @@ const authorizeRole = require("../middleware/authorizeRole")
 require("dotenv").config()
 const sec = process.env.SECRET_KEY
 
-api.get("/", authenticateJWT, authorizeRole('admin'), (req ,res)=>{
+api.get("/", authenticateJWT, authorizeRole("admin"), (req ,res)=>{
     const readed = readSync(filePATH);
     res.status(200).json({readed});
 })

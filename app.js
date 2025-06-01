@@ -9,6 +9,6 @@ const app = express()
 app.use(express.json())
 app.use("/auth", auth)
 app.use("/products", prod)
-app.use("/user", users)
+app.use("/users", users)
 
 app.listen(process.env.PORT, ()=>{console.log(`Project runs in port https://localhost:${process.env.PORT}: `)})
