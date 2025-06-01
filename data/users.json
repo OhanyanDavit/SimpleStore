@@ -1,0 +1,23 @@
+{
+  "davo@gmail.com": {
+    "name": "Davit",
+    "age": "123456",
+    "password": "Davit1234",
+    "email": "davo@gmail.com",
+    "role": "user"
+  },
+  "dav@example.com": {
+    "name": "Dav",
+    "age": 23,
+    "password": "iwcgidwcewi",
+    "email": "dav@example.com",
+    "role": "user"
+  },
+  "div@example.com": {
+    "name": "Dav",
+    "age": 23,
+    "password": "iwcgidwcewi",
+    "email": "div@example.com",
+    "role": "user"
+  }
+}
