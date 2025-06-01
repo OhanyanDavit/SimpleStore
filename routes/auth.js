@@ -61,7 +61,7 @@ api.post("/login", async(req, res)=>{
                 "email":USERS[email].email,
                 "password":USERS[email].password,
                 "role": USERS[email].role
-            }, sec, {expiresIn: 1000000})
+            }, sec, {expiresIn: '2h'})
             res.status(200).json({"token":token})
         }else{
             return res.status(400).json({message: "bad request"})

@@ -12,5 +12,12 @@
     "password": "$2b$10$n29XPnR8eemGlsBIIlouFufwFS04f40kXDEiH6eVHvKGZ9gLkiYTC",
     "email": "davo@gmail.com",
     "role": "admin"
+  },
+  "dav1o@gmail.com": {
+    "name": "DAVIT",
+    "age": 45,
+    "password": "$2b$10$V2Dk9k0/6RauBJuc4V6ohuXwEbJ/.bCjDOJiqrQY/moOpOvkbqAue",
+    "email": "dav1o@gmail.com",
+    "role": "admin"
   }
 }
